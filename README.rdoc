@@ -1,6 +1,6 @@
 = enter-the-matrix
 
-Description goes here.
+Enter the Matrix allows you to manage rails assications in a new kind of way. More to come...
 
 == Contributing to enter-the-matrix
  
